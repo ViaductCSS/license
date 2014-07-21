@@ -1,8 +1,7 @@
 # LICENSE
 
-All code in Viaduct CSS is released under the [Apache
-2](http://www.apache.org/licenses/LICENSE-2.0.html) license and is copyright of
-Ben Cooper, Jon Park, Paul Taylor & Tim Gale **unless otherwise stated**.
+All code in Viaduct CSS is released under the [MIT](http://opensource.org/licenses/MIT) license and is copyright of
+Ben Cooper, Jon Park, Paul Taylor & Tim Gale unless otherwise stated.
 
 Exceptions include, but are not limited to:
 
